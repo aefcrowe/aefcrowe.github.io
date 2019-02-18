@@ -1,11 +1,11 @@
 # Site settings
 author: Ashley Crowe
-title: 
+title: Data Science Mom Life 
 header-img: img/home-bg.png
 email: aefcrowe@gmail.com
 copyright_name: Ashley Crowe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning a new career and momming it up...while pregnant. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  aefcrowe
