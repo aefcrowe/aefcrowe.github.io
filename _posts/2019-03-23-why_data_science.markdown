@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Why Data Science?**"
-date:       2019-03-23 15:35:55 +0000
+title:      "Why Data Science?"
+date:       2019-03-23 11:35:56 -0400
 permalink:  why_data_science
 ---
 
