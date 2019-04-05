@@ -12,6 +12,4 @@ But, I am slowly entering into the second trimester and I believe I am finding m
 
 I love that...I love learning something new that I know will keep me challenged and allow me to help provide for my family and set a good example for my boys.  Moms can do anything, from magically erasing pain with a kiss to creating code.  Will I have it all...definitely not.  That is a dangerous myth and one that needs to get erased from this society (let me stop that thought...I'll climb back up that soapbox in a future post).  I will, however, have a fulfilling career and a beautiful family that will inspire me to keep with it.  What better reason could there be to start a new career?
 
-![](https://photos.app.goo.gl/3GS7Sb2yTkjbLfMn9)
-
-
+![](http://photos.app.goo.gl/3GS7Sb2yTkjbLfMn9)
